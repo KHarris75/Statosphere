@@ -1,4 +1,5 @@
 Thank you for downloading my first android project, the Statosphere!!
+This was my individual Computer Science Capstone project at UMKC
 The purpose of this app is to provide an easy way to look up statistical data
 on football teams and players in the NFL. The idea going forward is to add more in depth player comparison
 features to assist with fantasy football and sports betting decisions, but for now we just have simple
